@@ -367,7 +367,7 @@ html.col-12 .coln12{display:inline-block}
 
 	/* header */
 	.header-wrap{width:100%; padding:0 40px; margin:0 auto; font-size:0; text-align:center; transition:margin 0.3s}
-	.header-wrap .logo{display:block; width:150px; padding:20px 0 20px;}
+	.header-wrap .logo{display:block; width:150px; padding:0;}
 	.st0{fill:#FFFFFF;stroke:#000000; stroke-miterlimit:10;}
 	.btn-menu{display:none;}
 

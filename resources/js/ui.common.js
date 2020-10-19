@@ -14,7 +14,7 @@
 					case 'branding' :
 						fristHref = '/hyou/html/start/branding.html';
 						break;
-					case 'device' :
+					case 'refList' :
 						fristHref = '/hyou/html/start/refList.html';
 						break;
 					case 'margin' :
