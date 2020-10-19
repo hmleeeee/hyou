@@ -11,11 +11,11 @@
 					case 'introduction' :
 						fristHref = '/hyou/html/start/introduction.html';
 						break;
-					case 'typography' :
-						fristHref = '/hyou/html/start/typography.html';
+					case 'branding' :
+						fristHref = '/hyou/html/start/branding.html';
 						break;
 					case 'device' :
-						fristHref = '/hyou/html/start/device.html';
+						fristHref = '/hyou/html/start/refList.html';
 						break;
 					case 'margin' :
 						fristHref = '/hyou/html/start/margin.html';
@@ -141,7 +141,7 @@
 			}
 
 			$plugins.uiAjax({
-				id:'baseHeader', 
+				id:'baseHeader',
 				url:'/hyou/html/inc/header.html',
 				page:true,
 				callback:$plugins.common.header
